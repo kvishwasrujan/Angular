@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Helloworlds"
+    }
+  },
+  "defaultProject": "Helloworlds",
+  "cli": {
+    "analytics": "192d7a22-2f20-4606-b5c4-bb85bbaff9bb"
+  }
 }
